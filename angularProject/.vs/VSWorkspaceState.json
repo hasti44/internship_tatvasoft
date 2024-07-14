@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\admin-side",
+    "\\src\\app\\admin-side\\user\\add-user",
+    "\\src\\app\\LoginRegister",
+    "\\src\\app\\LoginRegister\\login",
+    "\\src\\app\\LoginRegister\\register"
+  ],
+  "SelectedNode": "\\src\\app\\LoginRegister\\login\\login.component.css",
+  "PreviewInSolutionExplorer": false
+}
